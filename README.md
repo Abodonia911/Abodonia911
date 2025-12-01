@@ -1,5 +1,5 @@
-# 💫 About Me:
-I am a senior computer science student at giu <br>my major is software engineer <br>my minor is data science 
+#💫 About Me
+I’m a senior Computer Science student at GIU, specializing in Software Engineering with a minor in Data Science. I focus on building reliable, scalable systems and applying data-driven techniques to solve real problems.
 
 
 ## 🌐 Socials:
