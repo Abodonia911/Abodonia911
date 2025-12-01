@@ -1,4 +1,4 @@
-💫 About Me
+## 💫 About Me
 I’m a senior Computer Science student at GIU, specializing in Software Engineering with a minor in Data Science. I focus on building reliable, scalable systems and applying data-driven techniques to solve real problems.
 
 
